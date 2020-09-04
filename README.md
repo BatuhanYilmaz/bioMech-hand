@@ -13,4 +13,10 @@ The hand can be built with:
 - A little enthusiasm
 
 
+## Design
 
+For the ease of assembly, the design is kept as simple as possible. In the design folder, there are 7 types of parts and 20 parts in total for building a full hand.
+
+## Code
+
+To keep it simple, an Arduino Nano is used for controlling the finger movements. One can utilize other types of Arduino, or program the hand with the help of a desired board.
