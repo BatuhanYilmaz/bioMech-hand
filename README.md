@@ -62,7 +62,6 @@ To keep it simple, an Arduino Nano is used for controlling the finger movements.
 
 ## Setup 
 
- In this project, Myo Armband will be connected to Arduino with a BLE module such as HM-10 or HM-11 and operated with MyoBridge [MyoBridge wiki](https://github.com/vroland/MyoBridge/wiki) library. Nevertheless, the connection cannot be established with default configuration of the BLE module.
- In order to make the hand communicate only with Myo Armband, the chip in the BLE module (CC254x) has to be programmed externally with a firmware. This tutorial will help to pair the hand and Myo Armband:
- [Burn the chip](https://github.com/vroland/MyoBridge/wiki/Getting-Started-with-MyoBridge-Firmware)
+ In this project, Myo Armband will be connected to Arduino with a BLE module such as HM-10 or HM-11 and operated with [MyoBridge library](https://github.com/vroland/MyoBridge/wiki). Nevertheless, the connection cannot be established with default configuration of the BLE module.
+ In order to make the hand communicate only with Myo Armband, the chip in the BLE module (CC254x) has to be programmed externally with a firmware. This tutorial will help to pair the hand and Myo Armband: [How to burn the chip to communicate with Myo Armband](https://github.com/vroland/MyoBridge/wiki/Getting-Started-with-MyoBridge-Firmware)
 
